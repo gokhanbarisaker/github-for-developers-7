@@ -3,8 +3,12 @@ Introduction
 
 **Name:** Gokhan Baris Aker
 
-**Location:** Dubai
+**Current location:** Dubai
 
 **Email:** gokhanbarisaker@gmail.com
 
 **Favourite color:** Purple
+
+**GitHub:** @gokhanbarisaker
+
+**Twitter:** @gokhanbarisaker
