@@ -6,3 +6,5 @@ Introduction
 **Location:** Dubai
 
 **Email:** gokhanbarisaker@gmail.com
+
+**Favourite color:** Purple
