@@ -1,1 +1,7 @@
-Welcome to My Home Town
+## Welcome to My Home Town
+
+__Dubai, United Arab Emirates__
+
+  - Sun
+  - Boring
+  - Sun
